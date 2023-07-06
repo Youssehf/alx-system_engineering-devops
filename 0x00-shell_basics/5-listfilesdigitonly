@@ -1,2 +1,2 @@
 #!/bin/bash
-./5-listfilesdigitonly
+ls -al 0x00-shell_basics
